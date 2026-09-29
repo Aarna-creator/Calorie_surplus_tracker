@@ -72,4 +72,5 @@ Screenshots of the working program can be added here after running the project.
 
 ## Author
 
-Student Project - VITyarthi
+Aarna Gupta
+
